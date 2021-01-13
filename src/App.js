@@ -3,21 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+
+      <h1>Welcome Alka</h1>
+      <h3>Junior UI Designer Execise</h3>
+      <p>
+        In this exercise you will try to compile this same page by replacing this content with the one present in the <a href="https://preview.uxpin.com/46bf69245b33229db6458867238e26620cc540eb#/pages/134803925">Mockup</a>
+      </p>
+
     </div>
   );
 }
